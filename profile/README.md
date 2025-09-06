@@ -23,7 +23,7 @@ iTop Screen Recorder stands out with its **high-definition output**, offering va
 With a focus on **user-friendly interface and professional features**, iTop Screen Recorder enables both beginners and advanced users to capture, edit, and share their content effortlessly. Its cross-platform support also ensures seamless recording across Windows, Mac, and Android devices.  
 
 <p align="center">
-  <img src="https://images.wondershare.com/filmora/article-trans-image/1312/itop-screen-recorder-4.jpg" alt="iTop Screen Recorder Screenshot" width="720"/>
+  <img src="https://images.wondershare.com/filmora/article-trans-image/1312/itop-screen-recorder-4.jpg" alt="iTop Screen Recorder Screenshot" width="480"/>
 </p>
 
 ---
